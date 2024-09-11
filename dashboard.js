@@ -1,3 +1,5 @@
+//this is the content of the home page
+
 import CandlestickChart from '../components/CandlestickChart'; // Import the CandlestickChart component
 import LineChart from '../components/LineChart'; // Import the LineChart component
 import BarChart from '../components/BarChart'; // Import the BarChart component
